@@ -1,0 +1,14 @@
+https://data.chhs.ca.gov/dataset/covid-19-post-vaccination-infection-data
+https://data.chhs.ca.gov/dataset/covid-19-post-vaccination-infection-data/resource/0c33ce39-a523-43b6-9fb3-a5bfe25d0cc6
+https://data.chhs.ca.gov/dataset/covid-19-post-vaccination-infection-data/resource/c5978614-6a23-450b-b637-171252052214
+https://covid19.ca.gov/state-dashboard/
+https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/CovidDataAndTools.aspx
+https://covid19.ca.gov/state-dashboard/#latest-update
+https://www.cdc.gov/coronavirus/2019-ncov/covid-data/about-COVID-data.html
+https://covid.cdc.gov/covid-data-tracker/#county-view?list_select_state=all_states&list_select_county=all_counties&data-type=CommunityLevels&null=Cases&metric-cases=cases_per_100K_7_day_count_change&list_select_map_data_metro=metro
+https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_daily_reports/12-31-2021.csv
+https://github.com/CSSEGISandData/COVID-19/blob/master/archived_data/archived_time_series/time_series_2019-ncov-Recovered.csv
+https://coronavirus.jhu.edu/map.html
+https://pubmed.ncbi.nlm.nih.gov/34741305/#:~:text=Conclusions%3A%20This%20systematic%20review%20showed,the%20disease%20burden%20among%20the
+https://data.chhs.ca.gov/dataset/covid-19-time-series-metrics-by-county-and-state/resource/046cdd2b-31e5-4d34-9ed3-b48cdbc4be7a
+
